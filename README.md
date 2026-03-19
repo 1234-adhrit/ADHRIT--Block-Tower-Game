@@ -65,3 +65,7 @@ http://localhost:3000/
 - Leaderboards and room history are stored in memory and reset when the server restarts.
 - Multiplayer requires everyone to use the same server URL.
 
+## Play Online
+
+- https://adhrit-block-tower-game.onrender.com
+
